@@ -10,7 +10,7 @@ This Repo contains some python scripts to automate stuff.
 
 ##Weather.py
 
-This uses [Open Weather Map] ('http://openweathermap.org/api')
+This uses [Open Weather Map API] (http://openweathermap.org/api)
 
 1. Run the python script.
 2. Enter your city.
