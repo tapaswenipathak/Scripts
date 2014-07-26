@@ -11,6 +11,7 @@ This Repo contains some python scripts to automate stuff.
 ##Weather.py
 
 This uses [Open Weather Map] ('http://openweathermap.org/api')
+
 1. Run the python script.
 2. Enter your city.
 3. Get the ouput on the console.
