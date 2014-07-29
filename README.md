@@ -16,4 +16,9 @@ This uses [Open Weather Map API] (http://openweathermap.org/api).
 2. Enter your city.
 3. Get the ouput on the console.
 
+##Search.py
 
+You can run this script to search for some query on Google from terminal.
+
+1. Run the script as : python Search.py
+2. Output : First 4 results.
