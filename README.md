@@ -26,9 +26,11 @@ You can run this script to search for some query on Google from terminal.
 ##Explain_Word.py
 
 Enter the word to find it's meaning and example usage.
-This uses [WordNik API] (http://developer.wordnik.com/)
+
+This uses [WordNik API] (http://developer.wordnik.com/).
 
 ##Word_of_The_Day.py
 
 Run this script to get word of the day, it's meaning and example usage.
-This uses [WordNik API] (http://developer.wordnik.com/)
+
+This uses [WordNik API] (http://developer.wordnik.com/).
