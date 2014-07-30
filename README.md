@@ -22,3 +22,11 @@ You can run this script to search for some query on Google from terminal.
 
 1. Run the script as : python Search.py
 2. Output : First 4 results.
+
+##Explain_Word.py
+
+Enter the word to find the meaning and example usage.
+
+##Word_of_The_Day.py
+
+Run this script to get word of the day, it's meaning and example usage.
