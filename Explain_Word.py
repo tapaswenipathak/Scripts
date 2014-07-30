@@ -17,10 +17,6 @@ response = urllib2.urlopen ('http://api.wordnik.com:80/v4/word.json/' + input_wo
 data_sentence = json.load (response)
 data_len_sentence =  len (data_sentence)
 
-#Get word of the day
-response = urllib2.urlopen ('http://api.wordnik.com:80/v4/words.json/wordOfTheDay?date=2010-02-01&api_key=a2a73e7b926c924fad7001ca3111acd55af2ffabf50eb4ae5')
-word_of_the_day = json.load (response)
-
 #Print the Meanings
 print "Meanings : "
 for i in range (data_len_meaning) :
