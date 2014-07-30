@@ -34,3 +34,16 @@ This uses [WordNik API] (http://developer.wordnik.com/).
 Run this script to get word of the day, it's meaning and example usage.
 
 This uses [WordNik API] (http://developer.wordnik.com/).
+
+##YouTubeICode.py
+
+Enter the Youtube URL to download(d) or extract other information(ei) like :
+1. Number of likes
+2. Number of dislikes
+3. Author
+4. Description
+5. View Count
+6. Rating 
+7. Published Date e.t.c,
+
+This uses [Pafy] (http://pythonhosted.org/Pafy/).
