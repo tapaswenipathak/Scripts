@@ -59,6 +59,7 @@ This will tell you your
 2. Region
 3. Country
 4. Latitude & Longitude.
+
 This uses [Checkip] (http://checkip.dyndns.com/) and [ipinfo.io] (http://ipinfo.io/developers).
 
 ##Generate-HTML-Page.py
@@ -67,7 +68,7 @@ You can use this script to generate HTML pages.
 
 1. Add link & title of a page you wish to read.
 2. Add word & meaning link.
-3. This also has a motivational penguin at the endof the page marqueeing.
+3. This also has a motivational penguin at the end of the page marqueeing.
 4. This also has a simple Google search bar.
 
 ![Sample Output] (http://i.gyazo.com/eb0f4b908ee6480cc4bad01e500b4940.png)
