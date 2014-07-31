@@ -52,6 +52,7 @@ This uses [Pafy] (http://pythonhosted.org/Pafy/).
 ##Locate-Me.py
 
 Run this script and it will locate you. 
+
 This will tell you your 
 
 1. City
@@ -69,4 +70,4 @@ You can use this script to generate HTML pages.
 3. This also has a motivational penguin at the endof the page marqueeing.
 4. This also has a simple Google search bar.
 
-![Sample Output] (http://i.gyazo.com/76ecd6483a623a97a04f9427dcdb4165.png)
+![Sample Output] (http://i.gyazo.com/eb0f4b908ee6480cc4bad01e500b4940.png)
