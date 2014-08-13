@@ -72,3 +72,27 @@ You can use this script to generate HTML pages.
 4. This also has a simple Google search bar.
 
 ![Sample Output] (http://i.gyazo.com/eb0f4b908ee6480cc4bad01e500b4940.png)
+
+##Comments_Extractor.py
+
+This scripts extract comments of a specific post, matching the post id.
+Run this script to extract comments on your console, and process them the way you like.
+
+This uses [Facebook Graph API] (https://developers.facebook.com/docs/graph-api)
+
+##PrettyPrintJSON.py
+
+You can use this script to pretty print dirty (not indented properly) JSON file.
+
+Give the input file name, having the dirty JSON input, and Output file name on command line and this will store the prtty printed JSON in the output file.
+
+If you don't want to givce a output file name, it's okay, as this script then output the pretty printed JSON on the console.
+
+##PPHTML.py
+
+You can use this script to pretty print HTML code on the cosole. It takes the input and gives the output on console.
+
+##PPHTMLSoup.py
+
+This does the same work as [PPHTML.py] (https://github.com/tapasweni-pathak/Python-Scripts#pphtmlpy), but uses [BeautifulSoup] (http://en.wikipedia.org/wiki/Beautiful_Soup).
+
