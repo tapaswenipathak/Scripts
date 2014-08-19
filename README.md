@@ -96,3 +96,16 @@ You can use this script to pretty print HTML code on the cosole. It takes the in
 
 This does the same work as [PPHTML.py] (https://github.com/tapasweni-pathak/Python-Scripts#pphtmlpy), but uses [BeautifulSoup] (http://en.wikipedia.org/wiki/Beautiful_Soup).
 
+##Git_Add_All.sh
+
+This script makes the task of doing
+
+```
+git add -A
+git commit -m 'Your Message'
+git push origin master
+
+```
+a bit easier. By using this script you only need to type the commit message to do all this.
+
+
