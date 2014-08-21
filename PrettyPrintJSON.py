@@ -1,5 +1,5 @@
 import sys
-import simplejson as json
+import json
 
 #Read Input File
 inputFile = open (sys.argv[1])
