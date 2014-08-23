@@ -108,4 +108,12 @@ git push origin master
 ```
 a bit easier. By using this script you only need to type the commit message to do all this.
 
+##Generate-Permalink.py
 
+I am interning with Sanfoundary and working on [contributing] (https://github.com/tapasweni-pathak/Sanfoundary-Codes) codes on Data Sructures and Algorithms in C++.
+
+This script generate permalink from titles of thw webpage. This can only be used for SanFoundary. If you are interning with SanFoundary, you can also use this script to generate permalinks. 
+
+Sample [input] ().
+
+Sample [output] ()
