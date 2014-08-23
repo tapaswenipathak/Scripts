@@ -114,6 +114,6 @@ I am interning with Sanfoundary and working on [contributing] (https://github.co
 
 This script generate permalink from titles of thw webpage. This can only be used for SanFoundary. If you are interning with SanFoundary, you can also use this script to generate permalinks. 
 
-Sample [input] ().
+Sample [input] (https://github.com/tapasweni-pathak/Scripts/blob/master/Phase1.txt).
 
-Sample [output] ()
+Sample [output] (https://github.com/tapasweni-pathak/Scripts/blob/master/Permalinks.txt).
