@@ -13,7 +13,7 @@ This Repo contains some python scripts to automate stuff.
 This uses [Open Weather Map API] (http://openweathermap.org/api).
 
 1. Run the python script.
-2. Enter your city.
+2. It auto locates you.
 3. Get the ouput on the console.
 
 ##Search.py
@@ -117,3 +117,14 @@ This script generates permalinks from the titles in the webpage. This can only b
 [Sample input] (https://github.com/tapasweni-pathak/Scripts/blob/master/Phase1.txt).
 
 [Sample output] (https://github.com/tapasweni-pathak/Scripts/blob/master/Permalinks.txt).
+
+##Your-Horoscope.py
+
+Run the script to get today's horoscope for your sunsign.
+You are required to enter your sunsign.
+
+Parses [GaneshaSpeaks] (http://www.ganeshaspeaks.com/) to get the result.
+
+##Whois?.py
+
+Run this script to get the Whois of an IP/HOST on your console.
