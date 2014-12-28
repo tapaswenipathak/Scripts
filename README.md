@@ -128,3 +128,6 @@ Parses [GaneshaSpeaks] (http://www.ganeshaspeaks.com/) to get the result.
 ##Whois?.py
 
 Run this script to get the Whois of an IP/HOST on your console.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/tapasweni-pathak/scripts/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
