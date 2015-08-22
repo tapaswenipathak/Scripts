@@ -4,11 +4,11 @@ YOUR_API_KEY = 'AIzaSyBKmYWBe06Dcf_UCZMAoOcC7DyliluD76o'
 
 google_places = GooglePlaces(YOUR_API_KEY)
 
-loc = raw_input ("Enter your location ")
+loc = raw_input("Enter your location ")
 # You may prefer to use the text_search API, instead.
 query_result = google_places.nearby_search(
-        location=loc, keyword='ngos or non profit organizations',
-        radius=20000)
+    location=loc, keyword='ngos or non profit organizations',
+    radius=20000)
 
 if query_result.has_attributions:
     print query_result.html_attributions
@@ -42,4 +42,3 @@ for place in query_result.places:
         photo.filename
         # Raw image data
         photo.data'''
-
