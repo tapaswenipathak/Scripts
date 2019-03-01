@@ -1,14 +1,14 @@
 This Repo contains some python scripts to automate stuff.
 
-##BookMarks.py
+## BookMarks.py
 
-1. Export your BookMark files as HTML from Chromium. 
-2. Change the name of the files in the code. 
+1. Export your BookMark files as HTML from Chromium.
+2. Change the name of the files in the code.
 3. Run the script.
-4. Have fun with the updated BookMarks file. 
+4. Have fun with the updated BookMarks file.
 5. Output File Name : **UpdatedBookMarks.txt**
 
-##Weather.py
+## Weather.py
 
 This uses [Open Weather Map API] (http://openweathermap.org/api).
 
@@ -16,26 +16,26 @@ This uses [Open Weather Map API] (http://openweathermap.org/api).
 2. It auto locates you.
 3. Get the ouput on the console.
 
-##Search.py
+## Search.py
 
 You can run this script to search for some query on Google from terminal.
 
 1. Run the script as : python Search.py
 2. Output : First 4 results.
 
-##Explain_Word.py
+## Explain_Word.py
 
 Enter the word to find it's meaning and example usage.
 
 This uses [WordNik API] (http://developer.wordnik.com/).
 
-##Word_of_The_Day.py
+## Word_of_The_Day.py
 
 Run this script to get word of the day, it's meaning and example usage.
 
 This uses [WordNik API] (http://developer.wordnik.com/).
 
-##YouTubeICode.py
+## YouTubeICode.py
 
 Enter the Youtube URL to download(d) or extract other information(ei) like :
 
@@ -44,16 +44,16 @@ Enter the Youtube URL to download(d) or extract other information(ei) like :
 3. Author
 4. Description
 5. View Count
-6. Rating 
+6. Rating
 7. Published Date e.t.c,
 
 This uses [Pafy] (http://pythonhosted.org/Pafy/).
 
-##Locate-Me.py
+## Locate-Me.py
 
-Run this script and it will locate you. 
+Run this script and it will locate you.
 
-This will tell you your 
+This will tell you your
 
 1. City
 2. Region
@@ -62,9 +62,9 @@ This will tell you your
 
 This uses [Checkip] (http://checkip.dyndns.com/) and [ipinfo.io] (http://ipinfo.io/developers).
 
-##Generate-HTML-Page.py
+## Generate-HTML-Page.py
 
-You can use this script to generate HTML pages. 
+You can use this script to generate HTML pages.
 
 1. Add link & title of a page you wish to read.
 2. Add word & meaning link.
@@ -73,14 +73,14 @@ You can use this script to generate HTML pages.
 
 ![Sample Output] (http://i.gyazo.com/eb0f4b908ee6480cc4bad01e500b4940.png)
 
-##Comments_Extractor.py
+## Comments_Extractor.py
 
 This scripts extract comments of a specific post, matching the post id.
 Run this script to extract comments on your console, and process them the way you like.
 
 This uses [Facebook Graph API] (https://developers.facebook.com/docs/graph-api)
 
-##PrettyPrintJSON.py
+## PrettyPrintJSON.py
 
 You can use this script to pretty print dirty (not indented properly) JSON file.
 
@@ -88,15 +88,15 @@ Give the input file name, having the dirty JSON input, and Output file name on c
 
 If you don't want to givce a output file name, it's okay, as this script then output the pretty printed JSON on the console.
 
-##PPHTML.py
+## PPHTML.py
 
 You can use this script to pretty print HTML code on the cosole. It takes the input and gives the output on console.
 
-##PPHTMLSoup.py
+## PPHTMLSoup.py
 
 This does the same work as [PPHTML.py] (https://github.com/tapasweni-pathak/Python-Scripts#pphtmlpy), but uses [BeautifulSoup] (http://en.wikipedia.org/wiki/Beautiful_Soup).
 
-##Git_Add_All.sh
+## Git_Add_All.sh
 
 This script makes the task of doing
 
@@ -108,26 +108,23 @@ git push origin master
 ```
 a bit easier. By using this script you only need to type the commit message to do all this.
 
-##Generate-Permalink.py
+## Generate-Permalink.py
 
 I am interning with Sanfoundary and working on [contributing] (https://github.com/tapasweni-pathak/Sanfoundary-Codes) codes on Data Sructures and Algorithms in C++.
 
-This script generates permalinks from the titles in the webpage. This can only be used for [SanFoundary] (http://www.sanfoundry.com/). If you are interning with SanFoundary, you can also use this script to generate permalinks. 
+This script generates permalinks from the titles in the webpage. This can only be used for [SanFoundary] (http://www.sanfoundry.com/). If you are interning with SanFoundary, you can also use this script to generate permalinks.
 
 [Sample input] (https://github.com/tapasweni-pathak/Scripts/blob/master/Phase1.txt).
 
 [Sample output] (https://github.com/tapasweni-pathak/Scripts/blob/master/Permalinks.txt).
 
-##Your-Horoscope.py
+## Your-Horoscope.py
 
 Run the script to get today's horoscope for your sunsign.
 You are required to enter your sunsign.
 
 Parses [GaneshaSpeaks] (http://www.ganeshaspeaks.com/) to get the result.
 
-##Whois?.py
+## Whois?.py
 
 Run this script to get the Whois of an IP/HOST on your console.
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/tapasweni-pathak/scripts/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
